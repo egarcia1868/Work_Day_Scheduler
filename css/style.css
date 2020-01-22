@@ -1,0 +1,51 @@
+h6 {
+  text-align: center;
+}
+
+tr {
+  height: 60px;
+}
+
+#currentDate {
+  border-bottom: solid black 5px;
+  padding-bottom: 5%;
+  margin-bottom: 3%;
+}
+
+#biggem {
+  background: white;
+  text-align: center;
+  margin-top: 5%;
+  font-size:  60px;
+}
+
+.firstCol {
+  width: 6.945vw;
+  border-right: solid gray 2px;
+  border-top: solid gray 2px; 
+  vertical-align: none;
+}
+
+.midCol {
+  width: 69.45vw;
+  height: 60px;
+  background-color: lightgray;
+  border-top: gray solid 2px;
+  border-right: %398796 solid 2px;
+}
+
+.lastCol {
+  /* width: 10%; */
+  border-bottom: solid skyblue 1px;
+  border-left: none;
+  vertical-align: middle;
+  height: 60px;
+  width: 6.945vw;
+  /* line-height: 25px; */
+  text-align: center;
+  background-color: #12afc9;
+  display: inline-block;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
