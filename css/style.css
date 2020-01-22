@@ -32,6 +32,7 @@ tr {
   background-color: lightgray;
   border-top: gray solid 2px;
   border-right: #398796 solid 2px;
+  border-bottom: lightgray 1px solid;
 }
 
 .lastCol {
@@ -48,4 +49,5 @@ tr {
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
 }
+
 
