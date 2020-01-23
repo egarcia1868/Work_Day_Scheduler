@@ -6,9 +6,10 @@ A simple scheduler for your current work day to organize your day's events and t
 
 Simply go to https://egarcia1868.github.io/Work_Day_Scheduler/ at the beginning of your work day, enter a task for a specific hour and click the floppy disk icon and the assignment will be saved to that hour until you delete it.
 
-### I NEED TO HAVE SCREENSHOTS AND A LINK TO THE APPLICATION
+### Screenshot
 
-![Screenshot!!!](/assets/images/ScreenShot.png?raw=true "Screenshot of how past/current/future hours appear")
+![Screenshot!](/assets/images/ScreenShot.png?raw=true "Screenshot of how past/current/future hours appear")
+This is how the app appears within the 2pm hour.  You can see the hours past appear grey, the current hour appears red, and the future hours appear green.
 
 
 ## Built With
