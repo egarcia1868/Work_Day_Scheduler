@@ -2,9 +2,10 @@ var currentHour = moment().format("H");
 console.log(currentHour)
 
 for (var hour = 9; hour < 18; hour++) {
-  if (currentHour === hour) {
-    document.querySelector(`#task${currentHour}`).classList.remove("future");
-    document.querySelector(`#task${currentHour}`).classList.add("present");
+  console.log(hour);
+  if (currentHour == hour) {
+    document.querySelector(`#task${hour}`).classList.remove("future");
+    document.querySelector(`#task${hour}`).classList.add("present");
   }
   if (currentHour > hour) {
     document.querySelector(`#task${hour}`).classList.remove("future");

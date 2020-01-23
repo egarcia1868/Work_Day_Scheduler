@@ -10,6 +10,10 @@ table {
   margin: auto;
 }
 
+i {
+  margin-top: 22px;
+}
+
 #currentDate {
   border-bottom: solid black 5px;
   padding-bottom: 5%;
