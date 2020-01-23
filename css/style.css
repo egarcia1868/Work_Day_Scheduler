@@ -6,6 +6,10 @@ tr {
   height: 60px;
 }
 
+table {
+  margin: auto;
+}
+
 #currentDate {
   border-bottom: solid black 5px;
   padding-bottom: 5%;
@@ -26,13 +30,27 @@ tr {
   vertical-align: none;
 }
 
+.past {
+  background-color: lightgray;
+  border-top: gray solid 2px;
+}
+
+.present {
+  background-color: lightcoral;
+  border-top: red solid 2px;
+  color: white;
+}
+
+.future {
+  background-color: lightgreen;
+  border-top: green solid 2px;
+  color: white;
+}
+
 .midCol {
   width: 69.45vw;
   height: 60px;
-  background-color: lightgray;
-  border-top: gray solid 2px;
   border-right: #398796 solid 2px;
-  border-bottom: lightgray 1px solid;
 }
 
 .lastCol {
