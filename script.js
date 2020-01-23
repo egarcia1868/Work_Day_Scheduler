@@ -1,6 +1,18 @@
+var currentHour = moment().format("H");
+console.log(currentHour)
+
+document.querySelector(`#task${currentHour}`).classList.remove("future");
+document.querySelector(`#task${currentHour}`).classList.add("present");
+
+for (hour = 9; hour < 18; hour++) {
+  if (currentHour > hour) {
+    document.querySelector(`#task${hour}`).classList.remove("future");
+    document.querySelector(`#task${hour}`).classList.add("past");
+  }
+}
+
 $(document).ready(function() {
   $("#currentDate").append(moment().format("dddd, MMMM Do"));
-
 
   var nineVal = localStorage.getItem("task9", nineVal);
       $("#task9").val(nineVal);
