@@ -42,13 +42,20 @@ i {
 .present {
   background-color: lightcoral;
   border-top: red solid 2px;
-  color: white;
+  color: black;
 }
 
 .future {
   background-color: lightgreen;
   border-top: green solid 2px;
-  color: white;
+  color: black;
+}
+
+.future::selection {
+  background: #ffb7b7; 
+}
+.future::-moz-selection {
+  background: #ffb7b7; 
 }
 
 .midCol {
