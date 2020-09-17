@@ -1,12 +1,12 @@
 # Workday Scheduler
 
-https://egarcia1868.github.io/Work_Day_Scheduler/
+https://egarcia1868.github.io/Workday_Scheduler/
 
 A simple scheduler for your current workday to organize your day's events and tasks.
 
 ## Getting Started
 
-Simply go to https://egarcia1868.github.io/Work_Day_Scheduler/ at the beginning of your work day, enter a task for each hour and click the floppy disk icon and the assignment will be saved to that hour until you delete it.
+Simply go to https://egarcia1868.github.io/Workday_Scheduler/ at the beginning of your work day, enter a task for each hour and click the floppy disk icon and the assignment will be saved to that hour until you delete it.
 
 ### Screenshot
 
