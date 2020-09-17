@@ -1,5 +1,5 @@
 var currentHour = moment().format("H");
-console.log(currentHour)
+// console.log(currentHour)
 
 for (var hour = 9; hour < 18; hour++) {
   console.log(hour);
