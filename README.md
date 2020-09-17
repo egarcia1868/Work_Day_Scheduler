@@ -1,8 +1,8 @@
-# Work Day Scheduler
+# Workday Scheduler
 
 https://egarcia1868.github.io/Work_Day_Scheduler/
 
-A simple scheduler for your current work day to organize your day's events and tasks.
+A simple scheduler for your current workday to organize your day's events and tasks.
 
 ## Getting Started
 
